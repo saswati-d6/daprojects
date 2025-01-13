@@ -1,5 +1,6 @@
 
 # Chocolate Sales Analytics
+See the full Dashboard here- [App Power BI link](https://app.powerbi.com/groups/me/reports/81c8fe54-adf9-4e00-b8f8-e7f981950049/60e6b3f43035841aa015?experience=power-bi)
 
 
 Awesome Chocolates is a fictitious manufacturing company that produces organic wholesome chocolates. The management team needs a way to track KPIs (sales, cost, profit, low box shipment), compare regional performance, analyze product-level trends, and identify low box shipments.
